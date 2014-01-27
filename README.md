@@ -3,8 +3,7 @@ shoppingBasketReceipt
 
 Shopping Basket Receipt
 
-Objective:
-Create a program to generate a receipt for a shopping cart.
+A program to generate a receipt for a shopping cart.
 
 Given:
 The input to the program includes: product description, product price, product quantity and location of the purchase. All other information, such as tax rates and product categories, is not part of the input and can be stored within the program or as part of configuration settings.
